@@ -1,0 +1,109 @@
+Welcome to the Overview of Cybersecurity Specialist
+Professional Certificate. In today's digital age, cybersecurity skills
+are in high demand as businesses strive to protect the security of their
+infrastructure, network applications, and data. The IBM cybersecurity specialist professional certificate
+will prepare you with the in-demand skills necessary for entry-level cybersecurity
+specialist opportunities. This professional
+certificate, PC, requires no prior IT, cybersecurity, or
+programming background, and is suitable for those with or without a
+college degree. It will equip you to understand cybersecurity's
+fundamental concepts, processes, tools,
+and strategies. Throughout the courses, many
+practical hands on labs and exercises enable you to demonstrate your skills
+to potential employers. In addition to becoming
+fully prepared for an entry-level
+cybersecurity role, this program will help you prepare for cybersecurity
+certifications such as the Certified in
+Cybersecurity CC from ISC2. The professional
+certificate also partially covers
+content that will help the Systems Security Certified practitioner SSCP from ISC2. The cybersecurity specialist
+professional certificate consists of 12 courses. In the first course,
+you'll be introduced to career options
+in cybersecurity, and introduction to
+cybersecurity careers. Next you'll become familiar with IT and Cloud fundamentals. Courses 2-6 will also prepare
+you for the Comp TIA, ITF plus certification exam. Introduction to hardware
+and operating systems, introduction to software
+programming and databases, introduction to
+networking and storage, introduction to Cloud computing, introduction to
+cybersecurity essentials. Then you'll move on to ISC2 certified
+cybersecurity courses, security principles, incident response
+BC, and DR concepts, access control concepts, network security,
+security operations. The course will conclude with
+a capstone project where you'll apply and demonstrate all you have learned
+throughout the program. Cybersecurity capstone. Each topic corresponds to an online course you can
+complete independently. Each course consists of
+three to six modules. Completing courses
+covering different topics, and the required
+projects will earn you the IBM cybersecurity specialist professional
+certificate. You commence your cybersecurity
+professional journey with an overview of the
+available career options. The introduction to
+cybersecurity careers course is designed to give you the knowledge to find and secure the right information
+security (Info Sec) career. You will also become
+familiar with the most recognized
+certifications in the field provided by
+organizations such as Comptia, ISC2 like A+, and CISSP, and so on. Hardware and
+operating systems are the next topics in this
+professional certificate. This beginner-level
+course provides the core hardware and
+operating system knowledge needed by anyone new to
+IT and computer hardware, who wants to start a new
+career in technology, including IT
+support, networking, cybersecurity, and
+software development. The next course covers
+the basics of software, Cloud computing, web browsers, application
+development concepts, programming languages, and
+database fundamentals. After completing this course, you'll better grasp
+software processes and feel more confident using and
+securing applications, networking and storage are an essential part of
+cybersecurity skills. Enhance your basic knowledge, and learn about network types, cables, topologies, and models. You'll understand how data
+travels across the network and discover how protocols and standards enable all
+network activity, diagnose and troubleshoot
+network connectivity issues, and discover how to use command line utilities and network tools in
+Windows settings. Essential characteristics
+of Cloud computing and emerging technologies
+supported by the Cloud are also a part of the professional certificate. You'll explore Cloud
+service models including infrastructure as
+a service, IaaS, platform as a service PaaS, software as a service SaaS, and public, private, and
+hybrid deployment models. Fundamental cybersecurity
+skills are crucial for anyone using computing devices and connecting to the internet. A cybersecurity
+professional must recognize common security threats and risks that individuals and
+organizations may face, such as theft, tampering, and destruction of
+sensitive information. In this course, you'll discover
+the characteristics of cyber attacks and
+learn how you can employ best practices
+to guard against them. Start with the
+security principles of information assurance as part of ISC2 certified
+cybersecurity courses. The concepts include risk
+management, security controls, policies, procedures, standards,
+regulations, and laws. As a cybersecurity professional, you need to understand how
+organizations respond to, recover from, and continue to operate during
+unplanned disruptions. Three distinct plans are
+vital to the survival of any organization that the
+ISC2 specialization covers. Incident response, IR,
+business continuity, BC, and disaster
+recovery, DR concepts. The ISC2 specialization also covers who gets access to what, why access is necessary, and how that access is managed. You'll learn both physical
+and logical controls and how they're combined to strengthen the overall security
+of an organization. Securing the computer
+network is also part of the ISC2 specialization. Network security itself can be a specialty career
+within cybersecurity. You must understand the
+network concepts and models common network
+threats and cyberattacks, and the network security
+infrastructure. Finally, in the specialization, you need to learn
+the day-to-day, moment-by-moment active use
+of the security controls, and risk mitigation strategies an organization has in place. You'll explore ways to secure the data and systems they
+reside on and how to encourage secure
+practices among people who interact with the
+data and systems daily. The capstone project
+is where you'll apply all the skills
+learned as part of the PC. This project will
+be a good addition to your portfolio and take you close to the cybersecurity specialist professional
+certificate. As you review the content, you'll be presented
+with quizzes and projects to evaluate
+your learning. The graded quizzes carry a weightage that contributes
+to the course completion. Most projects will be peer graded and carry a
+certain weightage contributing to the
+course professional certificate completion
+requirement. Finally, after you've completed all the content successfully, you'll be awarded the IBM cybersecurity specialist
+professional certificate, a credential valued
+by many employers. We wish you the very best and hope you enjoy this journey.
